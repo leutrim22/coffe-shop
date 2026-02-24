@@ -1,0 +1,5 @@
+{
+  "name": "The Perfect Brew",
+  "description": "A cozy local coffee shop website featuring our menu, location, and story.",
+  "requestFramePermissions": ["geolocation"]
+}
